@@ -23,4 +23,8 @@ ledig
 ## Weitere Informationen
 [Klick Mich!](http://9gag.com/)
 
+## Foto:
+
+![Ein Bild](http://www.paradoxlan.de/cont/ruthe/strip_0737.jpg)
+
 
